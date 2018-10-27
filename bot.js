@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`1play | Stars Shom`,"http://twitch.tv/akrame35")
+client.user.setGame(`1play | Stars Shop`,"http://twitch.tv/akrame35")
 client.user.setStatus("dnd")
 });
 
